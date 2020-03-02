@@ -1,0 +1,9 @@
+h1 {
+  font-family: cursive; font-style: italic; color: blue;
+}
+table, th, td, tr {
+    border: 1px solid black; 
+}
+p {
+  font=family: cursive; font-style: italic; color: purple;
+}
