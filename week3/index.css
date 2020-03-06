@@ -1,0 +1,23 @@
+style.css
+
+h1 {
+    font-family: cursive; color: darkgreen; font-style: bold;
+}
+h1, h2 {
+    font-family: Georgia; text-align: center; color: darkgreen;
+}
+p {
+    font-size: 25px;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    }
+img {
+    float: left;
+}
+li {
+    font-size: 25px;
+}
