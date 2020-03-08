@@ -1,0 +1,68 @@
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+h1 {
+    font-family: cursive; font-style: italic; color: blue; font-size: 50px;
+    margin: auto;
+    margin-top: 1em;
+    display: center ;
+    text-align: center;
+  }
+  table, th, td, tr {
+      margin: auto;
+      border: 1px solid black; 
+      display: center;
+      text-align: center;
+  }
+  p {
+    font-family: cursive; font-style: italic; color: purple; font-size: 20px;
+    margin: auto;
+    display: center ;
+    text-align: center;
+  }
+  img {
+    display: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%; 
+    margin: auto;
+    display: center ;
+    text-align: center;
+  }
+  a {
+  font-size: 25px;
+  margin: auto;
+  display: center ;
+  text-align: center;
+  }
+  div {
+    font-size: 25px; font-family: cursive; font-style: italic; color: blue;
+    margin: auto;
+    display: center ;
+    text-align: center;
+  }
+  .nav-bar {
+    display: inline-block;
+    position: fixed;
+    top: 0px;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(44,22,44,.8);
+  }
+  .home {
+      position: relative;
+      left: 0px
+  }
+  .menu {
+    position: relative;
+    left: 0px
+  }
+  .suggestions {
+    position: relative;
+    left:50 px
+  }
+  nav {
+    text-align: center;  
+  }
