@@ -1,0 +1,42 @@
+Html, body {
+    background-image: url("https://images.unsplash.com/photo-1511553677255-ba939e5537e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=841&q=80");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+} 
+h1 {
+    font-family: pacifico; font-style: italic; color: pink; font-size: 50px;
+}
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; color: pink;
+}  
+table, th, td, tr {
+      border: 1px solid pink; color: pink; 
+}
+p {
+    font=family: cursive; font-style: italic; color: pink; font-size: 20px;
+}
+img {
+    width: 150px; 
+}
+a {
+  font-size: 25px;
+}
+nav {
+    font-size: 20px; font-family: cursive; font-style: italic; color: pink;
+}
+.nav-bar {
+    display: left;
+    position: fixed;
+    top: 0px;
+    text-align: center;
+    width: 100%;
+    background-color: rgba(124, 55, 124, 0.8);
+    font-family: cursive;
+}
+i {
+      color: pink; 
+}
+li {
+      font-family: cursive; color: pink; font-style: italic;
+}
