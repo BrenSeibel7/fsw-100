@@ -1,0 +1,54 @@
+Html, body {
+    background-image: url("https://scontent-atl3-1.xx.fbcdn.net/v/t31.0-8/17635450_10154465228631616_3953966962465405654_o.jpg?_nc_cat=109&_nc_sid=e007fa&_nc_ohc=O8B2HQzdduAAX-WRIyq&_nc_ht=scontent-atl3-1.xx&oh=0691c7a2ab166448a31cf3b1cf029e7e&oe=5EA5A9B4");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+} 
+h1 {
+    font-family: pacifico; font-style: italic; color:darkblue; font-size: 50px;
+}
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; color:darkblue;
+}  
+table, th, td, tr {
+      border: 1px solid darkblue; color: darkblue; 
+}
+p {
+    font-family: cursive; font-style: italic; color: darkblue; font-size: 20px; font-weight: bold;
+}
+img {
+    width: 250px; 
+}
+a {
+  font-size: 25px; color: solid black; text-decoration: none; 
+}
+a:hover{
+    text-decoration: underline;
+}
+nav {
+    font-size: 20px; font-family: cursive; font-style: italic; color: darkblue;
+}
+.nav-bar {
+    display: flex;
+    position: fixed;
+    justify-content: space-between;
+    top: 0px;
+    width: 100%;
+    background-color: rgba(124, 55, 124, 0.8);
+    font-family: cursive;
+    }
+.navx { 
+    display: inline-block;
+}
+.my-work {
+    float: left;  
+}   
+.about-us {
+    margin-right: 10px;
+} 
+i {
+      color: darkblue; 
+}
+li {
+      font-family: cursive; color: darkblue; font-style: italic;
+}

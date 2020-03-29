@@ -26,14 +26,24 @@ nav {
     font-size: 20px; font-family: cursive; font-style: italic; color: pink;
 }
 .nav-bar {
-    display: left;
+    display: flex;
     position: fixed;
+    justify-content: space-between;
     top: 0px;
-    text-align: center;
     width: 100%;
     background-color: rgba(124, 55, 124, 0.8);
     font-family: cursive;
+    color: white;
+    }
+.navx { 
+    display: inline-block;
 }
+.my-work {
+    float: left;  
+}   
+.about-us {
+    margin-right: 10px;
+} 
 i {
       color: pink; 
 }
